@@ -5,21 +5,13 @@ layout: home
 hero:
   name: "Atelier 16"
   text: "Atelier sur l'installation et l'utilisation de Vitepress"
-  tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Xavier Fortin
+      link: /xavier_fortin
+    - theme: brand
+      text: James Savoie
+      link: /james_savoie
 
-features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
