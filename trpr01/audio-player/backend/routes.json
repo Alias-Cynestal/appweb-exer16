@@ -1,0 +1,4 @@
+{
+  "/songs/:id": "/songs/:id?_expand=artist",
+  "/artists": "/artists?_embed=songs"
+}

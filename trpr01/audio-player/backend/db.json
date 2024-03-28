@@ -1,0 +1,155 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "fileName": "Chrono_Trigger_Back_2_Skala_OC_ReMix.mp3",
+      "songName": "Back 2 Skala",
+      "desc": "Musique provenant du jeu Crono Trigger",
+      "infosUrl": "https://ocremix.org/remix/OCR01602",
+      "artistId": 1
+    },
+    {
+      "id": 2,
+      "fileName": "Final_Fantasy_6_Celces_(Dance)_OC_ReMix.mp3",
+      "songName": "Celces (Dance)",
+      "desc": "Musique provenant du jeu Final Fantasy VI",
+      "infosUrl": "https://ocremix.org/remix/OCR00199",
+      "artistId": 1
+    },
+    {
+      "id": 3,
+      "fileName": "Donkey_Kong_Country_A_Journey_Through_Grand_Oceans_OC_ReMix.mp3",
+      "songName": "A Journey Through Grand Oceans",
+      "desc": "Musique provenant du jeu Donkeyy Kong Country",
+      "infosUrl": "https://ocremix.org/remix/OCR03718",
+      "artistId": 2
+    },
+    {
+      "id": 4,
+      "fileName": "Undertale_NoMercy_OC_ReMix.mp3",
+      "songName": "No Mercy",
+      "desc": "Musique provenant du jeu Undertale",
+      "infosUrl": "https://ocremix.org/remix/OCR04410",
+      "artistId": 3
+    },
+    {
+      "id": 5,
+      "fileName": "Legend_of_Zelda_A_Link_to_the_Past_Hylian_Knights_OC_ReMix.mp3",
+      "songName": "Hylian Knights",
+      "desc": "Musique provenant du jeu The Legend of Zelda: A Link to the Past",
+      "infosUrl": "https://ocremix.org/remix/OCR04279",
+      "artistId": 4
+    },
+    {
+      "id": 6,
+      "fileName": "New_Super_Mario_Bros_Mushroom_Maddness_OC_ReMix.mp3",
+      "songName": "Mushroom Maddness",
+      "desc": "Musique provenant du jeu New Super Mario Bros",
+      "infosUrl": "https://ocremix.org/remix/OCR01539",
+      "artistId": 4
+    },
+    {
+      "id": 7,
+      "fileName": "Legend_of_Zelda_Ocarina_of_Time_And_the_Woods_Shall_Dance_OC_ReMix.mp3",
+      "songName": "And the Woods Shall Dance",
+      "desc": "Musique provenant du jeu The Legend of Zelda: Ocarina of Time ",
+      "infosUrl": "https://ocremix.org/remix/OCR04191",
+      "artistId": 4
+    },
+    {
+      "id": 8,
+      "fileName": "Parasite_Eve_Beauty's_Abomination_OC_ReMix.mp3",
+      "songName": "Beauty's Abomination",
+      "desc": "Musique provenant du jeu Parasite Eve ",
+      "infosUrl": "https://ocremix.org/remix/OCR01551",
+      "artistId": 5
+    },
+    {
+      "id": 9,
+      "fileName": "Elder_Scrolls_5_Skyrim_Dragonborn_Concerto_OC_ReMix.mp3",
+      "songName": "Dragonborn Concerto",
+      "desc": "Musique provenant du jeu The Elder Scrolls V: Skyrim ",
+      "infosUrl": "https://ocremix.org/remix/OCR04065",
+      "artistId": 6
+    },
+    {
+      "id": 10,
+      "fileName": "Last_of_Us_Sarah_OC_ReMix.mp3",
+      "songName": "Sarah",
+      "desc": "Musique provenant du jeu The Last of Us ",
+      "infosUrl": "https://ocremix.org/remix/OCR02995",
+      "artistId": 7
+    },
+    {
+      "id": 11,
+      "fileName": "Silent_Hill_2_Crowded_Minds_and_Lonely_Roads_OC_ReMix.mp3",
+      "songName": "Crowded Minds and Lonely Roads",
+      "desc": "Musique provenant du jeu Silent Hill 2 ",
+      "infosUrl": "https://ocremix.org/remix/OCR03461",
+      "artistId": 8
+    },
+    {
+      "id": 12,
+      "fileName": "Contra_Hard_Corps_It's_Payback_Time_OC_ReMix.mp3",
+      "songName": "It's Payback Time",
+      "desc": "Musique provenant du jeu Contra: Hard Corps ",
+      "infosUrl": "https://ocremix.org/remix/OCR03920",
+      "artistId": 8
+    },
+    {
+      "id": 13,
+      "fileName": "Mega_Man_2_It's_Been_a_Wily_OC_ReMix.mp3",
+      "songName": "It's Been a Wily",
+      "desc": "Musique provenant du jeu Mega Man 2 ",
+      "infosUrl": "https://ocremix.org/remix/OCR04155",
+      "artistId": 9
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Nobuo Uematsu",
+      "desc": "Nobuo Uematsu (植松 伸夫, Uematsu Nobuo?) est un compositeur japonais né le 21 mars 1959 à Kōchi. Unanimement reconnu comme l'un des plus grands dans le domaine du jeu vidéo, notamment pour ses travaux pour la série Final Fantasy, il est également membre d'un groupe de power metal, The Black Mages et The Earthbound Papas. "
+    },
+    {
+      "id": 2,
+      "name": "David Wise",
+      "desc": "David Wise (souvent crédité sous le nom de Dave Wise ou D. Wise) est un compositeur britannique de jeux vidéo. Il est l'un des compositeurs attitrés de Rare et sa musique apparaît donc dans de très nombreux jeux de Rare."
+    },
+    {
+      "id": 3,
+      "name": "Toby Fox",
+      "desc": "Toby Fox est un compositeur et développeur indépendant américain connu pour être l'auteur et le producteur de la populaire série de jeux vidéo Undertale et de son spin-off, Deltarune. Ses œuvres sont caractérisées par des thèmes mélancoliques, une bande-son exceptionnelle et des mécanismes de jeu innovants qui offrent aux joueurs une expérience unique et profonde."
+    },
+    {
+      "id": 4,
+      "name": "Koji Kondo",
+      "desc": "Koji Kondo est un compositeur et arrangeur de musique japonais connu pour avoir composé les bandes originales des jeux vidéo de la série « The Legend of Zelda » et « Super Mario ». Il est également reconnu pour ses travaux dans le cinéma, la télévision et la musique classique."
+    },
+    {
+      "id": 5,
+      "name": "Yoko Shimomura",
+      "desc": "Yoko Shimomura est une compositeur de musique de jeu vidéo reconnue pour ses compositions pour les jeux vidéo de la série Kingdom Hearts, Street Fighter II, Super Mario RPG et Legend of Mana. Son style mélange des influences classiques, traditionnelles et modernes pour créer des bandes sonores dynamiques et variées."
+    },
+    {
+      "id": 6,
+      "name": "Jeremy Soule",
+      "desc": "Jeremy Soule est un compositeur de musique de jeu vidéo connu pour ses compositions orchestrales épiques et ses thèmes mémorables. Il est connu pour avoir composé la musique de séries de jeux vidéo à succès, telles que The Elder Scrolls, Guild Wars et Harry Potter."
+    },
+    {
+      "id": 7,
+      "name": "Gustavo Santaolalla",
+      "desc": "Gustavo Santaolalla est un compositeur, producteur et guitariste argentin primé aux Oscars pour ses bandes originales de cinéma. Son style unique, mélangeant des influences folkloriques et des éléments de musique électronique, a été largement reconnu pour donner une profondeur et une atmosphère aux films pour lesquels il a composé."
+    },
+    {
+      "id": 8,
+      "name": "Akira Yamaoka",
+      "desc": "Akira Yamaoka est un compositeur, producteur et guitariste japonais connu pour ses compositions et arrangements pour les séries vidéoludiques Silent Hill et Shadows of the Damned. Il est reconnu pour ses mélodies mélancoliques et ses sonorités industrielles envoutantes."
+    },
+    {
+      "id": 9,
+      "name": "Takashi Tateishi",
+      "desc": "Takashi Tateishi est un compositeur et pianiste japonais spécialisé dans la musique pour jeux vidéo. Ses oeuvres sont connues pour leurs mélodies mémorables et leurs rythmes entraînants, notamment pour leurs contributions à la série Megaman de Capcom."
+    }
+  ]
+}
