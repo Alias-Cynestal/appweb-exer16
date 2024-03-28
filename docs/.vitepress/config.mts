@@ -12,16 +12,16 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Travails pratiques 01',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Xavier Fortin', link: '/xavier_fortin' },
+          { text: 'James Savoie', link: '/james_savoie' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Alias-Cynestal/appweb-exer16' }
     ]
   }
 })
