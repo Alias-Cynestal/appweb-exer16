@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base:"/appweb-exer16/",
   title: "Atelier 16",
   description: "Atelier sur l'installation et l'utilisation de Vitepress",
   themeConfig: {
