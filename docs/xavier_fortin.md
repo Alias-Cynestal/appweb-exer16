@@ -153,8 +153,6 @@ function handleStopEvent(): void {
 </script>
 ```
 
-
-
 Sinon très bon code !
 
 ## SongPlayerControls.vue
